@@ -8,6 +8,6 @@ Task 3 : Mobile Price Classification using Machine Learning.
 
 Task 4 : Iris Flowers Classification ML Project.
 
-Task 6 : Neural network for handwriting recognition.
+Task 5 : Neural network for handwriting recognition.
 
 

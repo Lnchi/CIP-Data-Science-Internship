@@ -8,8 +8,6 @@ Task 3 : Mobile Price Classification using Machine Learning.
 
 Task 4 : Iris Flowers Classification ML Project.
 
-Task 5 : Exploratory Data Analysis on Dataset Terrorism. 
-
 Task 6 : Neural network for handwriting recognition.
 
 

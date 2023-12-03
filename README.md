@@ -10,4 +10,4 @@ Task 4 : Iris Flowers Classification ML Project.
 
 Task 5 : Neural network for handwriting recognition.
 
-
+Task 6 : Data Analysis with the IBM Automobile Dataset.
